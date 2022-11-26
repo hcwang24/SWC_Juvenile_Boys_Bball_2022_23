@@ -1,1 +1,2 @@
-# SWC_Juvenile_Boys_Bball_2022_23.io
+# Sir Winston Churchill Secondary School
+# Grade 9 boys basketball team
