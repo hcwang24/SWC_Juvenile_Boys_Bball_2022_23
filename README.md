@@ -24,6 +24,6 @@ Cidy Runya
 Krystelle Baldos  
 
 ## Coach
-HanChen Wang (wanghanchenwhc@hotmail.com)
+HanChen Wang (wanghanchenwhc@hotmail.com)  
 Mr. Jefferson (mjefferson@vsb.bc.ca)
 
