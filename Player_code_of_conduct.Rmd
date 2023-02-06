@@ -1,0 +1,59 @@
+---
+title: "Player code of conduct"
+author: "HanChen Wang"
+date: "`r Sys.Date()`"
+output: pdf_document
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+# SWC Grade 9 Boys Basketball Player Contract  
+
+## Student athlete:  
+•	I understand that I am a student first, athlete second. If I have a schedule conflict between school-related obligations and team commitment, I will ensure to notify the coaching team in advance and I should focus on the schoolwork first.  
+•	I will study and achieve grades significantly above the minimal passing grade determined by the school.   
+•	I understand that a failed class will put my team participation on pause, until I have shown that I can achieve grades above the minimal passing line.   
+
+## Player code of conduct:  
+•	I will treat the coaching staff respectfully.   
+•	I will respect the game and give it my all during practice and games.  
+•	I will be respectful and courteous to my teammates.   
+•	Bullying and other misbehaviors towards a teammate or others are serious offences that will result in immediate suspension from the team and further investigation with the school authorities.   
+•	I will be respectful in public and display good character as a representative of Churchill Basketball.   
+•	If I have a problem with a teammate, I will talk to the coaching staff to attempt to solve the problem.   
+•	I will be committed to being a team player.   
+•	When I step on the court, I will remember that “It’s Time to Go to Work”.   
+•	Demonstrate sportsmanship. Play fair. Set an example. Rise above poor behavior.   
+•	Value the instruction of your coach.   
+•	Appreciate your teammates.   
+•	Never question an official or express your feelings at a call.   
+•	Take time to learn the rules.   
+
+## Practice:  
+•	I will attend practices to the best of my effort.   
+•	I will arrive at practices at least 10 minutes before and ready to go at the start of practice.   
+•	If there are schedule conflicts for practice, I will make sure to notify the coach at least 24 hours ahead of the practice. It’s much appreciated to contact the coach right-away when I know that I will be absent.   
+•	In case of emergencies (illness or other urgent obligations), I will make my best attempt to notify the coach or Mr. Jefferson, or ask a teammate to pass the message.   
+•	I understand that uncommunicated absent may result in the loss of my playing time on the team, unless a justifiable excuse is communicated with the coach.  
+•	I understand that repeated uncommunicated absents (3 strikes) will result in the termination of my enrollment on the team.    
+
+## Pre-Game:  
+•	Dress appropriately and wear the uniform in we have one.   
+•	When attending games, I will remember that I represent Churchill Secondary and its basketball program.   
+•	I will get to games at least 30 minutes ahead to change and warm up.   
+•	If needed, I will take charge in floor sweeping.  
+
+## In-Game:  
+•	I will be supportive of my teammates, both on the court and from the bench.   
+•	Supportive behaviors include but are not limited to cheering for made shots, comforting them for a mistake, helping teammates get up if they fall, calling DEFENCE from the bench, and counting down the shot clock.   
+•	I understand a confrontation with my own teammate during the game will result in a suspension of no less than one game or until the conflict has been resolved.   
+•	During timeout, I will rush to the huddle to listen to game strategies and adjustments.
+•	I will never make accusations or be impolite to an official. I understand that a misbehavior will result in a rejection from the game (no matter what the referee determines).   
+
+## Post-Game:  
+•	Unless told not to (due to COVID regulations), I will show appreciation to my opponents.   
+•	I will help clean up the bench area and check for forgotten items from a teammate.   
+•	In away games, I will make sure everyone leaves as a group. Leave no one behind.  
+
+
