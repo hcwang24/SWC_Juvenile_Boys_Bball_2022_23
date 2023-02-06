@@ -28,4 +28,4 @@ HanChen Wang (wanghanchenwhc@hotmail.com)
 Mr. Jefferson (mjefferson@vsb.bc.ca)
 
 ## Player Code of Conduct
-Please read the player's code of conduct thoroughly \href{run:./Player_code_of_conduct.pdf}{here}
+Please read the player's code of conduct thoroughly [here](Player_code_of_conduct.pdf)
